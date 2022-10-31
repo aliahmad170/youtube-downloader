@@ -29,6 +29,8 @@
     <link href="{{asset('assets\css\style.css')}}" rel="stylesheet">
 
     <link rel="shortcut icon" href="{{asset('assets\img\images.jpeg')}}">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4645016582538623"
+     crossorigin="anonymous"></script>
 </head>
 
 <body>
