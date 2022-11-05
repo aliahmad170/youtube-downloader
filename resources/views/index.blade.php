@@ -3,7 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title>AF Youtube Downloader</title>
+    {{-- <title>AF Youtube Downloader</title> --}}
+    @include('meta::manager', [
+        'title'         => 'AF Youtube Downloader',
+        'description'   => 'Download youtube video for free',
+        'image'         => '',
+    ])
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free HTML Templates" name="keywords">
     <meta content="Free HTML Templates" name="description">
