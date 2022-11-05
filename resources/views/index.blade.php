@@ -8,7 +8,7 @@
         'title'         => 'AF Youtube Downloader',
         'description'   => 'youtube video iphone downloader',
 
-        'image'         => '',
+
     ])
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="youtube video iphone downloader" name="keywords">
