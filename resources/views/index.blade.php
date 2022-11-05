@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     {{-- <title>AF Youtube Downloader</title> --}}
     @include('meta::manager', [
-        'title'         => 'heroku test',
+        'title'         => 'AF Youtube Downloader',
         'description'   => 'Download youtube video for free',
         'image'         => '',
     ])
