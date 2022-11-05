@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+    <meta name="google-site-verification" content="oBeL_Y-9nbCBQjPQYmb-DfiuuGmi-S2A8YRBNUWk-og" />
     <meta charset="utf-8">
 
     @include('meta::manager', [

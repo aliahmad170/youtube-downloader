@@ -24,3 +24,7 @@ Route::get('Contact/', function () {
 Route::get('privacy/', function () {
     return view('privacy');
 })->name('privacy');
+
+Route::get('googleababc12c8662e45f.html',function(){
+return view('googleababc12c8662e45f.html');
+});
