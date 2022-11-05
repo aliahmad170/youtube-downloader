@@ -5,7 +5,7 @@
     <meta charset="utf-8">
 
     @include('meta::manager', [
-        'title'         => 'AF Youtube Downloader',
+        'title'         => 'contacts-AF Youtube Downloader',
         'description'   => 'youtube video iphone downloader',
 
         'image'         => '',
@@ -96,50 +96,13 @@
             </div> --}}
 
          {{-- download form start --}}
-         <div class="col-md-6 offset-md-3 mt-5">
-            <div class="card">
-              <div class="card-header bg-info">
-                <h5>youtube downloader</h5>
-              </div>
-              <div class="card-body">
-                <div class="row">
-                  <div class="col-md-12">
-                    <div class="form-group">
-                      <label class="text-weight"><b>Online Videos Link:</b></label>
-                      <input type="txt" name="link" class="form-control link" required>
-                    </div>
-                  </div>
-                </div>
-                <form class="form-download">
-                  <div class="row">
-                    <div class="col-md-12">
-                      <div class="form-group">
-                        <label class="text-weight"><b>Select Video Fromate:</b></label>
-                        <select class="form-control formte" required>
-                          <option selected disabled>Select Video Formate</option>
-                          <option value="mp3">Mp3</option>
-                          <option value="mp4a">144 Mp4</option>
-                          <option value="360">360 Mp4</option>
-                          <option value="480">480 Mp4</option>
-                          <option value="720">720 Mp4</option>
-                          <option value="1080">1080 Mp4</option>
-                          <option value="4k">4k Mp4</option>
-                          <option value="8k">8k Mp4</option>
-                        </select>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-md-12">
-                      <div class="form-group mt-4 download-video">
-                        <button class="btn btn-success btn-block click-btn-down" type="submit">Click Me</button>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-          </div>
+        <div><h1>Contact US</h1>
+        </div> 
+        
+        
+<h1>                    </h1>
+
+        <h6>If you have any questions, complaints, or claims with respect to the our Services, please send us a message to:Aliahmadfahs17@gmail.com</h6>
 
 {{-- download form end --}}
 
@@ -230,9 +193,11 @@
                 <div class="col-md-4 mb-5">
                     <h3 class="text-white mb-4">Quick Links</h3>
                     <div class="d-flex flex-column justify-content-start">
-                        <a class="text-white-50 mb-2" href="{{route('privacy')}}"><i class="fa fa-angle-right mr-2"></i>Privacy Policy</a>
-             
-                        <a  class="text-white-50" href="{{route('contact')}}"><i class="fa fa-angle-right mr-2"></i>Contact</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Privacy Policy</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Terms & Condition</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Regular FAQs</a>
+                        <a class="text-white-50 mb-2" href="#"><i class="fa fa-angle-right mr-2"></i>Help & Support</a>
+                        <a class="text-white-50" href="#"><i class="fa fa-angle-right mr-2"></i>Contact</a>
                     </div>
                 </div>
             </div>
